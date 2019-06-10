@@ -4,7 +4,7 @@ El proyecto da un uso semántico a las tipografías variables en interfaces grá
 
 Providing variable fonts with a semantic use in graphic interfaces to establish a relationship between typography and the data collected by different sensors.
 
-## Prototipo Nº4. Sensor de sonido aplicado a una pantalla en un escenario
+## Prototipo Nº4. Sensor de sonido aplicado a las capacidades expresivas de la tipografía en una pantalla de gran formato
 
 ![Sensor Variable Font - sonido](/img/sensorvariablefont-sonido.jpg)
 
