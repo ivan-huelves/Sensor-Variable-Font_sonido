@@ -6,7 +6,7 @@ Providing variable fonts with a semantic use in graphic interfaces to establish 
 
 ## Prototipo Nº4. Sensor de sonido aplicado a las capacidades expresivas de la tipografía en una pantalla de gran formato
 
-![Sensor Variable Font - sonido](/img/sensorvariablefont-sonido.jpg)
+[![Sensor Variable Font - sonido](/img/sensorvariablefont-sonido.jpg)](https://vimeo.com/341422442 "Sensor Variable Font - sonido")
 
 En el cuarto prototipo desarrollado se propone una aplicación de la tipografía variable más centrada en las sensaciones. Concretamente se relaciona la música de un concierto, con la tipografía proyectada en la pantalla del escenario.
 
